@@ -1,0 +1,9 @@
+fastapi
+httpx
+pydantic
+pydantic_settings
+pyinstaller
+python-dotenv
+Requests
+starlette
+uvicorn
